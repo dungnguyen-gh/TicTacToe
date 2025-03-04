@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@colyseus/schema": "^3.0.16",
+    "@colyseus/tools": "^0.16.2",
+    "typescript": "^5.8.2"
+  }
+}
